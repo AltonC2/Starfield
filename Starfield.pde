@@ -1,5 +1,5 @@
 Lights f = new Lights();
-Lights[] Lighter = new Lights[300];
+Lights[] Lighter = new Lights[900];
 void setup() {
   size(700, 700);
   noStroke();
